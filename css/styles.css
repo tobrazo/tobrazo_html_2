@@ -1,0 +1,44 @@
+body{
+	background-color: #ddd;
+}
+
+.container{
+	width: 600px;
+	height: 600px;
+	outline: 1px solid #000;
+	background-color: #eee;
+	margin: auto;
+}
+
+img.MyImage{
+	width: 118px;
+	height: 118px;
+	margin: 0 auto;
+	outline: 1px solid #ddd;
+}
+
+#imgLinux{
+	text-align: center;
+}
+
+.content h3{
+	text-align: center;
+	padding-top: 20px;
+}
+
+.content p,a,ul{
+	font-size: 8pt;
+	padding-left: 20px;
+}
+
+#student{
+	padding-left: 0px;
+	color: grey;
+}
+
+.content{
+	width: 300px;
+	margin: auto;
+}
+
+
