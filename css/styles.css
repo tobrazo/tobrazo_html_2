@@ -1,3 +1,5 @@
+
+
 body{
 	background-color: #ddd;
 }
@@ -17,18 +19,8 @@ img.MyImage{
 	outline: 1px solid #ddd;
 }
 
-#imgLinux{
+#imgMain{
 	text-align: center;
-}
-
-.content h3{
-	text-align: center;
-	padding-top: 20px;
-}
-
-.content p,a,ul{
-	font-size: 8pt;
-	padding-left: 20px;
 }
 
 #student{
@@ -39,6 +31,18 @@ img.MyImage{
 .content{
 	width: 300px;
 	margin: auto;
+	font-size: 10px;
+	padding-left: 20px;
 }
 
+.fontSizeMain{
+	font-size: 11pt;
+}
 
+.fontSize{
+	font-size: 12px;
+}
+
+.pText{
+	padding-left: 20px;
+}
